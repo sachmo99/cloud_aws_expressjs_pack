@@ -9,7 +9,7 @@
   "author": "sachmo",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "fs": "0.0.1-security",
     "http": "0.0.0"
